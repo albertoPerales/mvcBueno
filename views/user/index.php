@@ -15,7 +15,6 @@
             <th>F.Nacimiento</th>
         </thead>
 
-
         <tbody>
             <?php foreach ($users as $user)  {?>
                 <tr>
